@@ -6,3 +6,8 @@
 **Density hotspots**: Coastal areas show highest population density
 **Age Distribution**: Most homes built between 10-40 years old
 **occupancy**:average 2.8 persons per household
+
+## Progress (Week 1)
+- Data loading and initial exploration
+- Spatial distribution mapping
+- Next: Income pattern analysis
