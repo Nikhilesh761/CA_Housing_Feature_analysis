@@ -11,3 +11,16 @@
 - Data loading and initial exploration
 - Spatial distribution mapping
 - Next: Income pattern analysis
+## week 2
+## MONDAY
+- ## Machine Learning Insights
+### Corrected Coastal Analysis
+- **Income Impact**: $354 increase per $1k income
+- **Actual Coastal Premium**: $82,500 (validated visually)
+- **Model Limitation**: Linear regression can't capture complex geography
+### Lesson Learned
+"Initial attempt to quantify coastal premium failed due to:
+- Oversimplification of geographical features
+- Linear model limitations for spatial patterns
+- Need for advanced feature engineering"
+- 
