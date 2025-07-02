@@ -23,4 +23,13 @@
 - Oversimplification of geographical features
 - Linear model limitations for spatial patterns
 - Need for advanced feature engineering"
-- 
+
+- ## WEDNESDAY
+- # Validation Report (Walidation - polish)
+
+- **Business impact:**
+- Average error: $49,314 (11.5% improvement)
+
+- Methodology valid for:
+- Kuala Lumpur high-rises(Malaysia)
+- Warsaw residential districts (Poland)
